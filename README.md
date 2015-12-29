@@ -1,0 +1,2 @@
+# Filebeat
+Filebeat configuration examples
